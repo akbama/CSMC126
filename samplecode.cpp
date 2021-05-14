@@ -1,5 +1,7 @@
 /*Alyanna Krista V. Bama
-2020-09745 local*/
+2020-09745
+
+sample code*/
 
 #include <iostream>
 #include <cstdlib>
